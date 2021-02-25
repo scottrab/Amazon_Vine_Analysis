@@ -3,6 +3,7 @@ The purpose of this analysis was to determine the amount of electronics purchase
 
 ## Results
 As seen here: https://github.com/scottrab/Amazon_Vine_Analysis/blob/main/Analysis%20Results.PNG
+
 The amount of reviews for electronics that were from unpaid accounts is 114,641.
 The amount of reviews for electronics that were from paid customers is 1693.
 Of the 5 star reviews, 676 reviews were paid while 53,586  were unpaid. 
