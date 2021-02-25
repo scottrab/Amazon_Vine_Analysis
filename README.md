@@ -11,4 +11,6 @@ The percentage of 5 star reviews for paid customers is 39.9%.
 The percentage of 5 star reviews for unpaid customers is 46.7%.
 
 ## Analysis
-Based on the results, it is clear that there are many reviews by unpaid customers, both 5 star and others.  Knowing this information, an additional analysis could be done to identify which products tend to attract more unpaid reviews than others to see if there is a trend among similar types of products relating to reviews. 
+Based on the results, it is clear that there are many reviews by unpaid customers, both 5 star and others. For the unpaid reviews, less than 50% of them are 5 stars which indicates a negative bias for the electronics reviews category.
+
+Knowing this information, an additional analysis could be done to identify which products tend to attract more unpaid reviews than others to see if there is a trend among similar types of products relating to reviews. 
